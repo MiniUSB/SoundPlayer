@@ -1,0 +1,9 @@
+name: UnusedSounds
+main: me.miniusb.unusedSounds.Main
+version: 1.0
+description: Play unused sounds in Minecraft
+commands:
+  cathiss:
+    description: Plays the cat hiss sound
+  woodclick:
+    description: Plays the wood click sound
